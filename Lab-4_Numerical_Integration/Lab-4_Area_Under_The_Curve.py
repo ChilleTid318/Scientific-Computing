@@ -65,7 +65,7 @@ pd1_list = []
 pd2_list = []
 pd3_list = []
 
-for n in range(1, 1001): #I did all this on my own.
+for n in range(1, 1001):
 
     dx = (b - a) / n
 
@@ -95,4 +95,5 @@ plt.show()
 plt.savefig("example_figure.png")
 #Hope you like! PLEASE give me details on areas where I can improve because this one was a bit more messy. 
 #Coding seems like a very useful tool and I would like to learn more.
+
 #SO PLEASE I WOULD LOVE TO HEAR OTHER WAYS I COULD'VE DONE THIS LAB.
