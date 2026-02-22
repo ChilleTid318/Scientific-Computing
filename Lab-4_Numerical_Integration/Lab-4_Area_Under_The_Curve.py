@@ -77,7 +77,7 @@ for n in range(1, 1001): #I did all this on my own.
     pd2 = percent_diff(A2, 100.83)
     pd3 = percent_diff(A3, 27.72)
 
-    dx_list.append(dx) #2. Google AI helped with this.
+    dx_list.append(dx)
     pd1_list.append(pd1) 
     pd2_list.append(pd2)
     pd3_list.append(pd3)
@@ -95,4 +95,5 @@ plt.show()
 plt.savefig("example_figure.png")
 #Hope you like! PLEASE give me details on areas where I can improve because this one was a bit more messy. 
 #Coding seems like a very useful tool and I would like to learn more.
+
 #SO PLEASE I WOULD LOVE TO HEAR OTHER WAYS I COULD'VE DONE THIS LAB.
